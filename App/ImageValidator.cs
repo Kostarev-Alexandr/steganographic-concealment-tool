@@ -1,4 +1,5 @@
 using ExifTool.Core.Models;
+using System.IO;
 
 namespace ExifTool.Core.Services;
 
